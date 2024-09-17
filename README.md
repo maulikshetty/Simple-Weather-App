@@ -1,2 +1,2 @@
-# weather_simple
+# Simple Weather Information Interface
 Simple Weather Interface
